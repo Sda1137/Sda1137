@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Yvan Gauthier
 I'm software Developer, I specialize in  Apple plaform, I work exclusively with native tech, so my wapon of choc e are C & C++, Objective-C and Swift. although I enjoy workign with the C programing laguage,I'm not a expert in C just yet. I find the field of system programming very interrestiing and I find it realy enjoyable as well a very chanllenging at times but diving peed into the concept is sonthing I find desarable. 
 
-- 👀 I’m interested in .
+## 🛠️ Tools 
+
+
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
